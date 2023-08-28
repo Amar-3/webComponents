@@ -1,2 +1,2 @@
 # webComponents
-Here is list of my designed components for marketplace
+In this universe I have  seperate web component  native code.
