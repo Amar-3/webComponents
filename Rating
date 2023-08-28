@@ -1,0 +1,13 @@
+                                                                                                                                                                                           js array for real time rating .
+
+
+<div className='product__rating'>
+               
+               { Array ( apss your prop )
+                .fill ()
+                .map ( ( _ , i ) => (
+                 <p>*</p> 
+                ) ) 
+               }
+
+</div>
